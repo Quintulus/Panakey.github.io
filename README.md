@@ -1,1 +1,1 @@
-# https://quintulus.github.io/Panakey.io/
+# https://quintulus.github.io/Panakey.io
